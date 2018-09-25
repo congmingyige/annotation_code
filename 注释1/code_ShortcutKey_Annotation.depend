@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537874848 source:c:\users\lenovo\desktop\code_shortcutkey_annotation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
